@@ -26,7 +26,7 @@ public class Decryption {
         String plainText = new String(outArray).toUpperCase();
 
         System.out.println();
-        System.out.println("The Decrypted message is :" + plainText);
+        System.out.println("The Decrypted message is : " + plainText);
     }
 
 }
