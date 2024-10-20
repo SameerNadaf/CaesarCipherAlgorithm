@@ -1,4 +1,4 @@
-# 🔐 Simple Caesar Cipher Algorithm
+# 🔐 Caesar Cipher Algorithm
 
 This Java project implements a simple Caesar Cipher algorithm for both encryption and decryption. The Caesar Cipher is a basic encryption technique where each letter in the plaintext is shifted by a certain number of positions down the alphabet.
 
